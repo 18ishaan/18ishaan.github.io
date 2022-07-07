@@ -1,0 +1,19 @@
+.main1{
+    height: 640px;
+}
+
+#send{
+    padding: 8px;
+    width: 10%;
+    margin: 15px;
+    border: none;
+    outline: none;
+}
+
+#msg{
+    width: 30%;
+    padding: 10px;
+    margin: 15px;
+    border: none;
+    outline: none;
+}

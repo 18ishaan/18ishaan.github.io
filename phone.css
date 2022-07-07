@@ -1,0 +1,51 @@
+.navbar ul li a{
+    padding: 3px 10px;
+}
+
+
+#send{
+    padding: 8px;
+    width: 17%;
+    margin: 15px;
+    border: none;
+    outline: none;
+}
+
+#msg{
+    width: 40%;
+    padding: 10px;
+    margin: 15px;
+    border: none;
+    outline: none;
+}
+
+.input{
+    padding: 12px;
+    margin: 15px;
+    width: 50%;
+    border: none;
+    outline: none;
+}
+
+.main{
+    height: 640px;
+}
+
+.infocontainer{
+    height: 550px;
+}
+
+.main1{
+    height: 870px;
+}
+
+.navbar ul li{
+    font-weight: bold ;
+    font-size: 15px;
+}
+
+.skill2{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
